@@ -45,7 +45,6 @@ main {
 .grid-container {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-template-rows: 40%;
     gap: 30px;
 }
 
